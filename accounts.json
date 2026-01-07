@@ -1,0 +1,62 @@
+[
+    {
+        "firstName": "Alex",
+        "lastName": "Rivera",
+        "accountNumber": "12345",
+        "pin": "4321",
+        "checkingBalance": 250.0,
+        "savingsBalance": 1200.0,
+        "transactions": [
+            "Deposit into Checking in amount of $50.00",
+            "Withdrawal from Savings in amount of $20.00"
+        ]
+    },
+    {
+        "firstName": "Aidan",
+        "lastName": "Mallon",
+        "accountNumber": "67676",
+        "pin": "0727",
+        "checkingBalance": 10000000000000000000.0,
+        "savingsBalance": 10000000000000000000,
+        "transactions": [
+            "Deposit into Checking in amount of $1000000000000.00",
+            "Withdrawal from Savings in amount of $100000000000000.00"
+        ]
+    },
+    {
+        "firstName": "Michael",
+        "lastName": "Roche",
+        "accountNumber": "12346",
+        "pin": "1111",
+        "checkingBalance": 0.0,
+        "savingsBalance": 0,
+        "transactions": [
+            "Deposit into Checking in amount of $1.00",
+            "Withdrawal from Checking in amount of $1.00"
+        ]
+    },
+    {
+        "firstName": "Bennett",
+        "lastName": "Kargol",
+        "accountNumber": "98765",
+        "pin": "1234",
+        "checkingBalance": 10.0,
+        "savingsBalance": 3,
+        "transactions": [
+            "Deposit into Checking in amount of $15.00",
+            "Withdrawal from Checking in amount of $5.00"
+        ]
+    },
+    {
+        "firstName": "John",
+        "lastName": "Nightreign",
+        "accountNumber": "52925",
+        "pin": "2674",
+        "checkingBalance": 1000000.0,
+        "savingsBalance": 19999999,
+        "transactions": [
+            "Deposit into Checking in amount of $10000.00",
+            "Withdrawal from Checking in amount of $190.00"
+        ]
+    }
+]
