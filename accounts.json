@@ -16,11 +16,12 @@
         "lastName": "Mallon",
         "accountNumber": "67676",
         "pin": "0727",
-        "checkingBalance": 10000000000000000000.0,
+        "checkingBalance": 9.99999e+18,
         "savingsBalance": 10000000000000000000,
         "transactions": [
             "Deposit into Checking in amount of $1000000000000.00",
-            "Withdrawal from Savings in amount of $100000000000000.00"
+            "Withdrawal from Savings in amount of $100000000000000.00",
+            "Withdrawal from Checking in amount of $10000000000000.00"
         ]
     },
     {
